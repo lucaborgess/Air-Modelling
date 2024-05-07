@@ -2,4 +2,4 @@
 
 Este repositório contém os scripts em Python utilizados na disciplina do curso de Engenharia Sanitária e Ambiental.
 
-Desenvolvedores: Lucas Borges e Sérgio Strack
+Desenvolvedor: Lucas Borges.
