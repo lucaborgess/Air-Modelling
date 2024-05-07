@@ -1,9 +1,6 @@
-documents
-excel
 figures
-rasters
 results
-shapefiles
+tabelas
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
